@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SolaimanLipiNormal';
+    src: url('solaimanlipiNormal/solaimanlipi_20-04-07.eot');
+    src: url('solaimanlipiNormal/solaimanlipi_20-04-07.eot') format('embedded-opentype'),
+    url('solaimanlipiNormal/solaimanlipi_20-04-07.woff') format('woff'),
+    url('solaimanlipiNormal/solaimanlipi_20-04-07.ttf') format('truetype'),
+    url('solaimanlipiNormal/solaimanlipi_20-04-07.svg') format('svg');
+}
+body{
+	font-family: 'SolaimanLipiNormal';
+}
